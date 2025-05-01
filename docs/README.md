@@ -1,30 +1,31 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)(Turma)_(Grupo)_(NomeDoProjeto)_(Entrega_02)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2025.1(T01)_G1_Embarcado_Entrega_02*. !!**  
- 
- (Apague esses comentários)
-
-# Nome do Projeto
+# Backseat
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 05<br>
 **Entrega**: 02<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| Matrícula   | Aluno                                           |
+|-------------|-------------------------------------------------|
+| 22/1008033  | Fernando Gabriel Dos Santos Carrijo             |
+| 20/0058258  | Henrique Galdino Couto                          |
+| 19/0029692  | Igor Thiago Lima de Santana                     |
+| 20/2045141  | João Paulo Monteiro de Barros Ceva Rodrigues    |
+| 20/0058576  | Joao Victor Marques Reis de Miranda             |
+| 22/1007591  | Julio Cesar Gomes de Souza Crispim              |
+| 20/0024949  | Matheus Ferreira Diogo                          |
+| 19/0116498  | Rodrigo Braz Ferreira Gontijo                   |
+| 20/2017129  | Rodrigo de Andrade Lima Orlandi                 |
+| 21/1062615  | Vitor Carvalho Pereira                          |
+
 
 ## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+
+O projeto Backseat busca uma maneira divertida de apresentar o conhecimento adquirido e compartilhá-lo com interessados em jogos. Alguns podem ser crípticos e outros nem tanto, mas acreditamos que a experiência do jogador é válida, e pode ajudar jogadores novos e interessados em desbloquear novos níveis da jornada.
+
+Sua função principal será o compartilhamento e visualização de guias relacionados a tópicos e fases de jogos, com o intuito de deixar o conhecimento o mais acessível possível. Serão fornecidas aos usuários opções de busca de jogos, guias e dar notas a guias. 
+	
+Esperamos fornecer novas conexões e experiências únicas a quem deseja participar.
 
 ## Screenshots da Segunda Entrega
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
@@ -33,9 +34,15 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 ( ) SIM
 
-( ) NÃO
+(X) NÃO
 
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
 
 ## Informações Complementares 
 Quaisquer outras informações adicionais podem ser descritas nessa seção.
+
+## Histórico de versão:
+
+| Versão | Alteração                  | Responsável     | Revisor | Data       | Detalhes da Revisão |
+| -      | -                          | -               | -       | -          | -                   |
+| 1.0    | Elaboração do documento | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)| | 30/04/2025 | |
