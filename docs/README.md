@@ -28,7 +28,19 @@ Sua função principal será o compartilhamento e visualização de guias relaci
 Esperamos fornecer novas conexões e experiências únicas a quem deseja participar.
 
 ## Screenshots da Segunda Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+
+![Diagrama de Pacotes](./Imagens/image-home1.png)
+
+<center>
+Figura 1 - Diagrama de Pacotes da Plataforma de Guias de Jogos (Fonte: Júlio Cesar e Fernando Gabriel)
+</center>
+
+
+![](../Imagens/image-home2.png)
+
+<center>
+Figura 2 - Diagrama de Atividades do Moderador (Autores: Rodrigo Gontijo e Henrique Galdino)
+</center>
 
 ## Há algo a ser executado?
 
@@ -38,11 +50,11 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
 
-## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
 
 ## Histórico de versão:
 
 | Versão | Alteração                  | Responsável     | Revisor | Data       | Detalhes da Revisão |
 | -      | -                          | -               | -       | -          | -                   |
 | 1.0    | Elaboração do documento | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)| | 30/04/2025 | |
+| 1.1    | Adição das screenshots de artefatos | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)| | 08/05/2025 | |
+
