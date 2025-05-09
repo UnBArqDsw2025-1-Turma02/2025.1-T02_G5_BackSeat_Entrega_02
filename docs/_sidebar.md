@@ -3,7 +3,7 @@
 - [**Home**](README.md)
 
 - **Modelagem**
-  -  **2. Desenho de Software (Modelagem)**
+  -  [**2. Desenho de Software (Modelagem)**](Modelagem/2.Modelagem.md)
     - 2.1. Modelagem UML Estática
       - [Diagrama de Classes](Modelagem/2.1.1.DiagramaDeClasses.md)
       - [Diagrama de Pacotes](Modelagem/2.1.2.DiagramaDePacotes.md)
