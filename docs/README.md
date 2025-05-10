@@ -60,4 +60,6 @@ Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados
 | -      | -                          | -               | -       | -          | -                   |
 | 1.0    | Elaboração do documento | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)| | 30/04/2025 | |
 | 1.1    | Adição das screenshots de artefatos | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)| | 08/05/2025 | |
+| 1.2    | Atualizando diagramas das screenshots | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)| | 09/05/2025 | |
+
 
