@@ -41,8 +41,8 @@ Figura 1 - Diagrama de Pacotes da Plataforma de Guias de Jogos (Fonte: Júlio Ce
 
 <center>
 	
-**Figura 2** – Diagrama de casos de uso específico para o usuário.  
-Autores: [Henrique Galdino](https://github.com/hgaldino05), [Igor Thiago](https://github.com/Igor-Thiago) e [Rodrigo Gontijo](https://github.com/rodrigogontijoo)
+Figura 2 – Diagrama de casos de uso específico para o usuário (Autores: [Henrique Galdino](https://github.com/hgaldino05), [Igor Thiago](https://github.com/Igor-Thiago) e [Rodrigo Gontijo](https://github.com/rodrigogontijoo)).
+
 </center>
 
 ## Há algo a ser executado?
