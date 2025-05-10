@@ -32,14 +32,17 @@ Esperamos fornecer novas conexões e experiências únicas a quem deseja partici
 ![Diagrama de Pacotes](./Imagens/image-home1.png)
 
 <center>
+	
 Figura 1 - Diagrama de Pacotes da Plataforma de Guias de Jogos (Fonte: Júlio Cesar e Fernando Gabriel)
 </center>
 
 
-![](../Imagens/image-home2.png)
+![Diagrama Caso De Uso do Usuário](./Imagens/caso-de-uso-usuario2.png)  
 
 <center>
-Figura 2 - Diagrama de Atividades do Moderador (Autores: Rodrigo Gontijo e Henrique Galdino)
+	
+**Figura 2** – Diagrama de casos de uso específico para o usuário.  
+Autores: [Henrique Galdino](https://github.com/hgaldino05), [Igor Thiago](https://github.com/Igor-Thiago) e [Rodrigo Gontijo](https://github.com/rodrigogontijoo)
 </center>
 
 ## Há algo a ser executado?
